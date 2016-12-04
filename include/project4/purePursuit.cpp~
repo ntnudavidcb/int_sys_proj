@@ -1,0 +1,16 @@
+#include <project4/purePursuit.h>
+
+purePursuit::purePursuit(){
+
+}
+
+control purePursuit::get_control(point x_robot, point x_goal){
+
+    /* TO DO
+     *
+     * implement purepursuit algorithm
+     *
+    */
+
+    return ctrl;
+}
